@@ -23,14 +23,24 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 ## Escopo e variáveis:
 
-- Variáveis globais e locais
+- [x] Variáveis globais e locais
 
 ## Tipos de dados:
 
-- String: '' "" ``
-- Numbers: 2, 1.4
-- Function
+- [x] String: '' "" ``
+- [x] Numbers: 2, 1.4
+- [x] Function
 
 ## Operadores
 
-- Operadores de atribuição de valores: =
+- [x] Operadores de atribuição de valores: =
+- [x] Operadores de contatenação (junção de duas ou mais strings)
+
+## Estruturas de dados:
+
+### Arrays:
+- [x] Uma lista que contém qualquer tipo de dado
+### Objetos:
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
